@@ -326,10 +326,16 @@ Python|[https://github.com/sylnsfar/qrcode](https://github.com/sylnsfar/qrcode)
 
 ## 感谢
 
-感谢 JetBrains 的 [开源支持计划](https://www.jetbrains.com/community/opensource/?from=EFQRCode) 对本项目的帮助。
+- 感谢 JetBrains 的 [开源支持计划](https://www.jetbrains.com/community/opensource/?from=EFQRCode) 对本项目的帮助。
 
 <a href="https://www.jetbrains.com/?from=EFQRCode">
     <img src="https://raw.githubusercontent.com/EFPrefix/EFQRCode/ce8982e1858d62ac8b9fecec96f5369d8b1b62c3/logo/jetbrains.svg?sanitize=true" width = "20%">
+</a>
+
+- 感谢 GitAds 对本项目的帮助，接下来的[推广内容](https://tracking.gitads.io/?repo=EFQRCode)来自 GitAds：
+
+<a href="https://tracking.gitads.io/?repo=EFQRCode">
+    <img src="https://images.gitads.io/EFQRCode" width = "100%">
 </a>
 
 ## 使用 EFQRCode 的应用

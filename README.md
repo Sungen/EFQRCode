@@ -317,10 +317,16 @@ Thanks for your support, 🙏
 
 ## Thanks
 
-Thanks for the help from JetBrains's [Open Source Support Program](https://www.jetbrains.com/community/opensource/?from=EFQRCode).
+- Thanks for the help from JetBrains's [Open Source Support Program](https://www.jetbrains.com/community/opensource/?from=EFQRCode).
 
 <a href="https://www.jetbrains.com/?from=EFQRCode">
     <img src="https://raw.githubusercontent.com/EFPrefix/EFQRCode/ce8982e1858d62ac8b9fecec96f5369d8b1b62c3/logo/jetbrains.svg?sanitize=true" width = "20%">
+</a>
+
+- Thanks for the help from GitAds, the following [promotion](https://tracking.gitads.io/?repo=EFQRCode) comes from it:
+
+<a href="https://tracking.gitads.io/?repo=EFQRCode">
+    <img src="https://images.gitads.io/EFQRCode" width = "100%">
 </a>
 
 ## Apps using EFQRCode
